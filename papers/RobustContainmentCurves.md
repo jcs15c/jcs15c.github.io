@@ -4,7 +4,9 @@ title: Robust Containment Queries over Collections of Rational Parametric Curves
 ---
 
 ## Robust Containment Queries over Collections of Rational Parametric Curves via Generalized Winding Numbers
+
 Jacob Spainhour, David Gunderman, Kenneth Weiss
+
 ACM Transactions on Graphics (SIGGRAPH 2024)
 
 ![Graphical Abstract](/resources/robust_containment_curved.png)
@@ -14,11 +16,9 @@ Point containment queries for regions bound by watertight geometric surfaces, i.
 
 
 Links:
-<div class="quick_links">
-    <ul>
-    <li>
-        Paper: <a href="https://arxiv.org/abs/2403.17371">arXiv</a> </li>
-    <li>
-        C++ Code: <a href="https://github.com/LLNL/axom">Axom</a> </li>
-    </ul>
-</div>
+<ul>
+<li>
+    Paper: <a href="https://arxiv.org/abs/2403.17371">arXiv</a> </li>
+<li>
+    C++ Code: <a href="https://github.com/LLNL/axom">Axom</a> </li>
+</ul>
