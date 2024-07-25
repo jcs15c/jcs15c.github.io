@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+title: Jacob Spainhour's Homepage
+email: Jacob.Spainhour@colorado.edu
+description: Jacob Spainhour's research homepage
+
+baseurl: ""
+url: "https://jcs15c.github.io"
+
+github_username: jcs15c
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/cayman@v0.2.0
