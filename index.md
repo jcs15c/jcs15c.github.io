@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Jacob Spainhour's Homepage
 ---
 
