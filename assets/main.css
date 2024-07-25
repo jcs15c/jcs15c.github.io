@@ -1,0 +1,36 @@
+.quick_links {
+	text-align:center;
+	margin:0em 0em 1em 7em;
+}
+
+.quick_links ul:before  {
+	content: "Quick links:";
+	color:#1500d1;
+	font-weight:bold;
+	float:left;
+}
+
+.quick_links ul {
+	padding: 5px 10px 0px 10px;
+	margin: 0px;
+	list-style:none;
+	overflow:auto;
+}
+
+.quick_links ul li {
+	margin: 0px;
+	padding: 0px 10px 0px 10px;
+	border-right: 1px solid #A5A089;
+	float:left;
+}
+
+.quick_links ul li.last {
+	margin: 0px;
+	padding: 0px 10px 0px 10px;
+	border-right: none;	
+}
+
+.quick_links ul li a {
+	float:left;
+	display:inline;
+}

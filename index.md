@@ -12,6 +12,18 @@ title: Home
   </div>
 </div>
 
+<div class="quick_links">
+    <ul>
+    <li>
+        <a href="https://github.com/jcs15c">github</a> </li>
+    <li>
+        <a href="https://orcid.org/0000-0001-8219-4360">ORCID</a> </li>
+    <li>
+        <a href="https://arxiv.org/a/spainhour_j_1.html">arXiv</a> </li>
+    <li class="last">
+        <a href="http://scholar.google.com/citations?user=6nPym_AAAAAJ">Google Scholar</a> </li>
+    </ul>
+</div>
 
 ## Publications
 
