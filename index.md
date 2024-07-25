@@ -12,7 +12,7 @@ title: Home
   </div>
 </div>
 
-<div class="quick_links">
+<!-- <div class="quick_links">
     <ul>
     <li>
         <a href="https://github.com/jcs15c">github</a> </li>
@@ -23,7 +23,7 @@ title: Home
     <li class="last">
         <a href="http://scholar.google.com/citations?user=6nPym_AAAAAJ">Google Scholar</a> </li>
     </ul>
-</div>
+</div> -->
 
 ## Publications
 
